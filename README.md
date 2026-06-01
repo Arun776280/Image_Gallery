@@ -212,4 +212,4 @@ modal.addEventListener('click', (e) => {
 ![alt text](<Screenshot 2026-06-01 111511.png>)
 
 ## RESULT
-  The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
+  The program for desiging an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
